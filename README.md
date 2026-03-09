@@ -1,5 +1,5 @@
 # Guide-on-Base-Learn-roles
 how to deploy contract on base using remix
 how to commit on github
-how to easily
+how to easily commit 50 to 100 commits on github
 
