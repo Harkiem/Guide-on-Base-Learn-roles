@@ -1,4 +1,4 @@
 # Guide-on-Base-Learn-roles
 how to deploy contract on base using remix
-how to commit 
+how to commit on 
 
